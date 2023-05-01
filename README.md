@@ -1,7 +1,7 @@
 # Snapchat Dark Theme
 this a (WIP) dark theme colors.xml file for snapchat
 
-**Only minor changes**
+**Only minor changes** *(for now)*
 
 ## Installation
 Installation varies case by case but it usually goes like this:
